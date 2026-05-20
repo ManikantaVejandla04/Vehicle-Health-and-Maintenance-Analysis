@@ -1,4 +1,4 @@
-# 🚗 Vehicle Health & Maintenance Analysis System
+# 🚗 Vehicle Health & Maintenance Analysis
 
 > **End-to-End Data Analytics Project** | Python · SQL Server · Power BI
 
